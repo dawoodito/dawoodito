@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Cool Projects
 - 📫 How to reach me -> HERE    
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 
 <!---
 dawoodito/dawoodito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
