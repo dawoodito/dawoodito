@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dawoodito
+- 👋 Hi, I’m @Dawood
 - 👀 I’m interested in Tumors and Genome Analysis
 - 🌱 I’m currently learning Bioiformatics and Computational Biology
 - 💞️ I’m looking to collaborate on Cool Projects
